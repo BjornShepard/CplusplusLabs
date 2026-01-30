@@ -4,7 +4,7 @@
 
 int x = 1000;
 int	a[]{ 1, 2, 3, 4 };
-int y = 2000;
+int y = 2000; 
 
 int main()
 {
