@@ -16,10 +16,11 @@ int List::size() const {
 }
 
 bool List::empty() const {
-	return true;
+	return false;
 }
 
 void List::insertFirst(int d) {
+	
 }
 
 void List::remove(int d, DeleteFlag df) {
