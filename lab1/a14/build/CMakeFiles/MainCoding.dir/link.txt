@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MainCoding.dir/main_coding.cc.o -o MainCoding  lib/libLib.a 
